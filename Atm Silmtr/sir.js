@@ -1,3 +1,5 @@
+// their are the some error in this file that to solve.
+
 let balance=0
 while (true) {
     const input=prompt(' Enter an option 1: balance, 2: witdhaw, 3: depost, 4 exit')
@@ -23,5 +25,6 @@ alert(your new balance is ${balance})
 }else{
     alert(' you have input some wrong option')
 }
+
 
 }
